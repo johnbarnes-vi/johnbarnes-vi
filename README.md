@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello!
 
 I'm John Barnes VI, a bachelors student of Computer Science at the University of Houston, where I'm focusing my studies on Machine Learning and Artificial Intelligence. But that's just part of the story. Before embarking on this journey, I earned a degree in Philosophy. This unique blend of disciplines shapes the way I approach problem-solving and think about the possibilities of technology.
 
