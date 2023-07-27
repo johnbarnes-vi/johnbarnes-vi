@@ -7,13 +7,6 @@ I'm John Barnes VI, a bachelors student of Computer Science at the University of
 - B.A. in Philosophy
 - B.Sc. in Computer Science (in progress)
 
-## 💻 Technical Skills
-
-- Machine Learning
-- Artificial Intelligence
-- Python
-- PyTorch
-
 ## 📖 What I Believe
 
 I'm a firm believer in the power of lifelong learning and the potential for technology to improve our lives. As a philosopher turned computer scientist, I love exploring the intersections of technology, ethics, and human understanding.
