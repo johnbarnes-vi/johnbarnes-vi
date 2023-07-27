@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm John Barnes VI, a bachelors student of Computer Science at the University of Houston, where I'm focusing my studies on Machine Learning and Artificial Intelligence. Before embarking on this journey, I earned a degree in Philosophy. This unique blend of disciplines shapes the way I approach problem-solving and think about the possibilities of technology.
+I'm John Barnes, student of Computer Science at the University of Houston, where I'm focusing on Machine Learning and Artificial Intelligence. Before this, I earned a degree in Philosophy. This blend shapes the way I approach problem-solving and think about the possibilities of technology.
 
 ### 🎓 Education
 
