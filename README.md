@@ -9,7 +9,7 @@ I'm John Barnes, student of Computer Science at the University of Houston, where
 
 ### 📖 What I Believe
 
-I'm a firm believer in the power of lifelong learning and the potential for technology to improve our lives. As a philosopher turned computer scientist, I love exploring the intersections of technology, ethics, and human understanding.
+I'm a firm believer in the power of lifelong learning and the potential for technology to improve our lives. As a philosophy student turned computer scientist, I love exploring the intersections of technology, ethics, and human understanding.
 
 ### 📫 Get in Touch
 
