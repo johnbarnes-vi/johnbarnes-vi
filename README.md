@@ -13,5 +13,5 @@ I'm a firm believer in the power of lifelong learning and the potential for tech
 
 ### 📫 Get in Touch
 
-- LinkedIn: [johnbarnesvi](www.linkedin.com/in/johnbarnesvi)
+- LinkedIn: [johnbarnesvi](https://www.linkedin.com/in/johnbarnesvi)
 - Email: [johnbarnes.vi@gmail.com](mailto:johnbarnes.vi@gmail.com)
