@@ -6,7 +6,7 @@ I'm John Barnes, graduate student of Computer Science at the University of Houst
 
 - B.A. in Philosophy
 - B.Sc. in Computer Science
-- MS. in Computer Science
+- MS. in Computer Science (IN PROGRESS)
 
 ### 📖 What I Believe
 
