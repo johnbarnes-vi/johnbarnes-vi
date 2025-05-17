@@ -1,11 +1,12 @@
 ## Hello!
 
-I'm John Barnes, student of Computer Science at the University of Houston, learning Deep Learning algorithms and the frameworks used to implement them. Before this, I earned a degree in Philosophy, focusing on systems of formal logic. This blend shapes the way I approach problem-solving and think about the possibilities of technology.
+I'm John Barnes, graduate student of Computer Science at the University of Houston, learning Deep Learning algorithms and parallel/distributed systems used to serve them at scale. Before this, I earned a degree in Philosophy, focusing on systems of formal logic. This blend shapes the way I approach problem-solving and think about the possibilities of technology.
 
 ### 🎓 Education
 
 - B.A. in Philosophy
-- B.Sc. in Computer Science (in progress)
+- B.Sc. in Computer Science
+- MS. in Computer Science
 
 ### 📖 What I Believe
 
